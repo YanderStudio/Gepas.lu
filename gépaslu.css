@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+@font-face{
+    font-family: 'asimovdist';
+    src: url('asimovdist.otf') format('opentype');
+}
+.bg{
+    background-color: #F6C6C6;
+}
+.gepas{
+    font-family:"asimovdist";
+    color: #EF7A69;
+    font-size: 550%;
+    letter-spacing: -15px;
+    margin-top: 12%;
+    margin-left: 12%;
+}
+.pavé{
+    font-family:"asimovdist", bold;
+    color: #EF7A69;
+    font-size: 169%;
+    margin-left: 12.4%;
+    margin-top: 0.5%;
+    letter-spacing: -5px;
+}
